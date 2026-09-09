@@ -4,8 +4,15 @@
 ## :notebook_with_decorative_cover: Personal Information
 - Name:邱閎原(QIU, HONG-YUAN)
 - Number:M11402262
-- Research: 
-- Briefly summarize your background and why you want to take this course:
+- Research: Cross-Domain AI for 5G Non-Public Networks
+- Background:
+    - Architecture: O-RAN, 5G Core Network
+    - Methodology: Federated Learning, Machine Learning
+- Why I want to take this course:
+    - I often treat base station metrics (PRB, MCS, SINR) as abstract data features. In this course, I aim to:
+        - Understand wireless channel physics: How path loss, fading, and interference dynamically drive channel quality (CQI) and modulation (MCS).
+        - Master Radio Resource Management (RRM): Learn MAC scheduling and PRB allocation mechanisms to design more domain-grounded O-RAN closed-loop control models.
+
 
 ## :notebook_with_decorative_cover: Assignment
 
