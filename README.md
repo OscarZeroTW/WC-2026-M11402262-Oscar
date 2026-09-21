@@ -20,7 +20,7 @@
     - **Deadline : 12:00, Sep. 28**
     - Goal:
         - This is an example for Wireshark installing.You need to install the wirwshark application on your own laptop and know how to use it. No matter in Window or Linux system.
-    - delivery: **put your file link here**.
+    - delivery: [**Link**](https://hackmd.io/@eISYmMMYTqG2ZLPF5kJQPw/SyB8d0jtfe).
  
 - **LAB1: Analyzing UE–gNB Connectivity in an OAI 5G SA Network**
     - Assignment Information: [Lab1](https://hackmd.io/A4w9WqU8R4mYgvaWxj6J1A?view)
