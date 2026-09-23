@@ -21,7 +21,7 @@
     - Goal:
         - Lab0: This is an example for Wireshark installing.You need to install the wirwshark application on your own laptop and know how to use it. No matter in Window or Linux system.
         - Lab1: In this lab, you will use Wireshark to analyze how a UE establishes an RRC connection with an OAI gNB and then registers with the 5G Core.
-    - delivery: **put your file link here**.
+    - delivery: **[Link](https://hackmd.io/@eISYmMMYTqG2ZLPF5kJQPw/SJWt6qlqze)**.
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSeY8uVnBUwJ6l6CwQ6arx3JHthTJupHBeA2WwyD-EUIYqHHrg/viewform?usp=publish-editor) (DL: 23:59, Sep. 30)
 
 - **LAB2 : gNB TDD Traffic Analysis**
