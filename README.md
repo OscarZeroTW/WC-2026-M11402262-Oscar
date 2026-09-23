@@ -15,18 +15,12 @@
 
 
 ## :notebook_with_decorative_cover: Assignment
-- **Lab0: Basic wireshark operation and capture**
-    - Assignment Information: [Lab0](https://hackmd.io/@Z4OmT2gcTXeLxBPXrn-2SQ/ry3RfjvFMg)
+- **Lab0: Basic wireshark operation and capture & LAB1: Analyzing UE–gNB Connectivity in an OAI 5G SA Network**
+    - Assignment Information: [Lab0](https://hackmd.io/@Z4OmT2gcTXeLxBPXrn-2SQ/ry3RfjvFMg) & [Lab1](https://hackmd.io/A4w9WqU8R4mYgvaWxj6J1A?view)
     - **Deadline : 12:00, Sep. 28**
     - Goal:
-        - This is an example for Wireshark installing.You need to install the wirwshark application on your own laptop and know how to use it. No matter in Window or Linux system.
-    - delivery: [**Link**](https://hackmd.io/@eISYmMMYTqG2ZLPF5kJQPw/SyB8d0jtfe).
- 
-- **LAB1: Analyzing UE–gNB Connectivity in an OAI 5G SA Network**
-    - Assignment Information: [Lab1](https://hackmd.io/A4w9WqU8R4mYgvaWxj6J1A?view)
-    - **Deadline : 12:00, Sep. 28**
-    - Goal:
-        - In this lab, you will use Wireshark to analyze how a UE establishes an RRC connection with an OAI gNB and then registers with the 5G Core.
+        - Lab0: This is an example for Wireshark installing.You need to install the wirwshark application on your own laptop and know how to use it. No matter in Window or Linux system.
+        - Lab1: In this lab, you will use Wireshark to analyze how a UE establishes an RRC connection with an OAI gNB and then registers with the 5G Core.
     - delivery: **put your file link here**.
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSeY8uVnBUwJ6l6CwQ6arx3JHthTJupHBeA2WwyD-EUIYqHHrg/viewform?usp=publish-editor) (DL: 23:59, Sep. 30)
 
