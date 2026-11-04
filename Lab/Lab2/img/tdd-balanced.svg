@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="425" font-family="Arial, sans-serif" font-size="12">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="60" y="28" font-size="17" font-weight="bold">Balanced (Scenario C) — tdd-balanced-sib1.pcapng</text>
+<text x="60" y="48" fill="#555">SCS 30 kHz, slot = 0.5 ms, period = 2.5 ms, 2 repetition(s) in 5 ms, 14 symbols/slot (normal CP)</text>
+<rect x="60.0" y="95" width="100.0" height="50" fill="#4C78A8" stroke="#fff"/>
+<text x="110.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">D</text>
+<text x="110.0" y="161" text-anchor="middle">0</text>
+<rect x="160.0" y="95" width="100.0" height="50" fill="#4C78A8" stroke="#fff"/>
+<text x="210.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">D</text>
+<text x="210.0" y="161" text-anchor="middle">1</text>
+<rect x="260.00" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="267.14" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="274.29" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="281.43" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="288.57" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="295.71" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="302.86" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="310.00" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="317.14" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="324.29" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="331.43" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="338.57" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="345.71" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="352.86" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="260.0" y="95" width="100.0" height="50" fill="none" stroke="#000" stroke-width="1.5"/>
+<text x="310.0" y="161" text-anchor="middle">2</text>
+<rect x="360.0" y="95" width="100.0" height="50" fill="#E45756" stroke="#fff"/>
+<text x="410.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">U</text>
+<text x="410.0" y="161" text-anchor="middle">3</text>
+<rect x="460.0" y="95" width="100.0" height="50" fill="#E45756" stroke="#fff"/>
+<text x="510.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">U</text>
+<text x="510.0" y="161" text-anchor="middle">4</text>
+<rect x="560.0" y="95" width="100.0" height="50" fill="#4C78A8" stroke="#fff"/>
+<text x="610.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">D</text>
+<text x="610.0" y="161" text-anchor="middle">0</text>
+<rect x="660.0" y="95" width="100.0" height="50" fill="#4C78A8" stroke="#fff"/>
+<text x="710.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">D</text>
+<text x="710.0" y="161" text-anchor="middle">1</text>
+<rect x="760.00" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="767.14" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="774.29" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="781.43" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="788.57" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="795.71" y="95" width="7.14" height="50" fill="#4C78A8" stroke="#fff" stroke-width="0.5"/>
+<rect x="802.86" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="810.00" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="817.14" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="824.29" y="95" width="7.14" height="50" fill="#D9D9D9" stroke="#fff" stroke-width="0.5"/>
+<rect x="831.43" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="838.57" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="845.71" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="852.86" y="95" width="7.14" height="50" fill="#E45756" stroke="#fff" stroke-width="0.5"/>
+<rect x="760.0" y="95" width="100.0" height="50" fill="none" stroke="#000" stroke-width="1.5"/>
+<text x="810.0" y="161" text-anchor="middle">2</text>
+<rect x="860.0" y="95" width="100.0" height="50" fill="#E45756" stroke="#fff"/>
+<text x="910.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">U</text>
+<text x="910.0" y="161" text-anchor="middle">3</text>
+<rect x="960.0" y="95" width="100.0" height="50" fill="#E45756" stroke="#fff"/>
+<text x="1010.0" y="125.0" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">U</text>
+<text x="1010.0" y="161" text-anchor="middle">4</text>
+<text x="52" y="161" text-anchor="end" fill="#555">slot</text>
+<line x1="60" y1="185" x2="1060" y2="185" stroke="#000"/>
+<line x1="60.0" y1="185" x2="60.0" y2="190" stroke="#000"/>
+<text x="60.0" y="203" text-anchor="middle">0</text>
+<line x1="160.0" y1="185" x2="160.0" y2="190" stroke="#000"/>
+<text x="160.0" y="203" text-anchor="middle">0.5</text>
+<line x1="260.0" y1="185" x2="260.0" y2="190" stroke="#000"/>
+<text x="260.0" y="203" text-anchor="middle">1</text>
+<line x1="360.0" y1="185" x2="360.0" y2="190" stroke="#000"/>
+<text x="360.0" y="203" text-anchor="middle">1.5</text>
+<line x1="460.0" y1="185" x2="460.0" y2="190" stroke="#000"/>
+<text x="460.0" y="203" text-anchor="middle">2</text>
+<line x1="560.0" y1="185" x2="560.0" y2="190" stroke="#000"/>
+<text x="560.0" y="203" text-anchor="middle">2.5</text>
+<line x1="660.0" y1="185" x2="660.0" y2="190" stroke="#000"/>
+<text x="660.0" y="203" text-anchor="middle">3</text>
+<line x1="760.0" y1="185" x2="760.0" y2="190" stroke="#000"/>
+<text x="760.0" y="203" text-anchor="middle">3.5</text>
+<line x1="860.0" y1="185" x2="860.0" y2="190" stroke="#000"/>
+<text x="860.0" y="203" text-anchor="middle">4</text>
+<line x1="960.0" y1="185" x2="960.0" y2="190" stroke="#000"/>
+<text x="960.0" y="203" text-anchor="middle">4.5</text>
+<line x1="1060.0" y1="185" x2="1060.0" y2="190" stroke="#000"/>
+<text x="1060.0" y="203" text-anchor="middle">5</text>
+<text x="1060" y="219" text-anchor="end" fill="#555">time (ms)</text>
+<line x1="60.0" y1="83" x2="60.0" y2="185" stroke="#000" stroke-width="2.5" stroke-dasharray="6,3"/>
+<text x="60.0" y="80" text-anchor="middle" font-size="11" font-weight="bold">0 ms</text>
+<line x1="560.0" y1="83" x2="560.0" y2="185" stroke="#000" stroke-width="2.5" stroke-dasharray="6,3"/>
+<text x="560.0" y="80" text-anchor="middle" font-size="11" font-weight="bold">2.5 ms</text>
+<line x1="1060.0" y1="83" x2="1060.0" y2="185" stroke="#000" stroke-width="2.5" stroke-dasharray="6,3"/>
+<text x="1060.0" y="80" text-anchor="middle" font-size="11" font-weight="bold">5 ms</text>
+<text x="60" y="245" font-weight="bold">Mixed slot 2 expanded (symbols 0–13):</text>
+<rect x="60" y="255" width="40" height="34" fill="#4C78A8" stroke="#fff"/>
+<text x="80.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">D</text>
+<text x="80.0" y="305" text-anchor="middle">0</text>
+<rect x="100" y="255" width="40" height="34" fill="#4C78A8" stroke="#fff"/>
+<text x="120.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">D</text>
+<text x="120.0" y="305" text-anchor="middle">1</text>
+<rect x="140" y="255" width="40" height="34" fill="#4C78A8" stroke="#fff"/>
+<text x="160.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">D</text>
+<text x="160.0" y="305" text-anchor="middle">2</text>
+<rect x="180" y="255" width="40" height="34" fill="#4C78A8" stroke="#fff"/>
+<text x="200.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">D</text>
+<text x="200.0" y="305" text-anchor="middle">3</text>
+<rect x="220" y="255" width="40" height="34" fill="#4C78A8" stroke="#fff"/>
+<text x="240.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">D</text>
+<text x="240.0" y="305" text-anchor="middle">4</text>
+<rect x="260" y="255" width="40" height="34" fill="#4C78A8" stroke="#fff"/>
+<text x="280.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">D</text>
+<text x="280.0" y="305" text-anchor="middle">5</text>
+<rect x="300" y="255" width="40" height="34" fill="#D9D9D9" stroke="#fff"/>
+<text x="320.0" y="277" text-anchor="middle" fill="#333" font-weight="bold">F</text>
+<text x="320.0" y="305" text-anchor="middle">6</text>
+<rect x="340" y="255" width="40" height="34" fill="#D9D9D9" stroke="#fff"/>
+<text x="360.0" y="277" text-anchor="middle" fill="#333" font-weight="bold">F</text>
+<text x="360.0" y="305" text-anchor="middle">7</text>
+<rect x="380" y="255" width="40" height="34" fill="#D9D9D9" stroke="#fff"/>
+<text x="400.0" y="277" text-anchor="middle" fill="#333" font-weight="bold">F</text>
+<text x="400.0" y="305" text-anchor="middle">8</text>
+<rect x="420" y="255" width="40" height="34" fill="#D9D9D9" stroke="#fff"/>
+<text x="440.0" y="277" text-anchor="middle" fill="#333" font-weight="bold">F</text>
+<text x="440.0" y="305" text-anchor="middle">9</text>
+<rect x="460" y="255" width="40" height="34" fill="#E45756" stroke="#fff"/>
+<text x="480.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">U</text>
+<text x="480.0" y="305" text-anchor="middle">10</text>
+<rect x="500" y="255" width="40" height="34" fill="#E45756" stroke="#fff"/>
+<text x="520.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">U</text>
+<text x="520.0" y="305" text-anchor="middle">11</text>
+<rect x="540" y="255" width="40" height="34" fill="#E45756" stroke="#fff"/>
+<text x="560.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">U</text>
+<text x="560.0" y="305" text-anchor="middle">12</text>
+<rect x="580" y="255" width="40" height="34" fill="#E45756" stroke="#fff"/>
+<text x="600.0" y="277" text-anchor="middle" fill="#fff" font-weight="bold">U</text>
+<text x="600.0" y="305" text-anchor="middle">13</text>
+<text x="636" y="277">D = 6, F = 4, U = 4</text>
+<rect x="730" y="335" width="18" height="18" fill="#4C78A8" stroke="#999"/>
+<text x="754" y="349">D = Downlink</text>
+<rect x="840" y="335" width="18" height="18" fill="#E45756" stroke="#999"/>
+<text x="864" y="349">U = Uplink</text>
+<rect x="950" y="335" width="18" height="18" fill="#D9D9D9" stroke="#999"/>
+<text x="974" y="349">F = Flexible</text>
+<text x="60" y="349" fill="#555">Dashed line = repeating-period boundary; slot index restarts at 0 each period.</text>
+</svg>
