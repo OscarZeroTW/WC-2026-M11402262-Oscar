@@ -26,8 +26,15 @@
 
 - **LAB2 : gNB TDD Traffic Analysis**
     -  Assignment Information: [Lab2](https://hackmd.io/@Z4OmT2gcTXeLxBPXrn-2SQ/BJkbO0juze)
-    -  **Deadline : 12:00, Oct. 5**
+    -  **Deadline : 12:00, Nov. 11**
     - Goal:
         - In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
     - delivery: **[Link](./Lab/Lab2/Lab2.md)**.
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLScz-Kt_9ArkXOl8sG99549xqGK7W7vAqoY4lbbc3ph03zvFaw/viewform?usp=publish-editor) (DL: 23:59, Oct.7)
+
+- **Lab 3: Deploying a 5G Standalone Network Using OpenAirInterface**
+    - Assignment Information: [Lab3](https://hackmd.io/@Z4OmT2gcTXeLxBPXrn-2SQ/HkPUMBw2fx/edit)
+    - **Deadline : 12:00, Nov. 18**
+    - Goal:
+        - The network is deployed using OpenAirInterface (OAI).
+        - delivery: **[Link](./Lab/Lab3/Lab3.md)**.
