@@ -38,6 +38,7 @@
     - Goal:
         - The network is deployed using OpenAirInterface (OAI).
         - delivery: **[Link](./Lab/Lab3/Lab3.md)**.
+
 - **Lab 4: 5G CU/DU Split Deployment and F1-C/F1-U Analysis**
     - **Deadline : 12:00, Nov. 25**
     - Goal:
